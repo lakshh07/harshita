@@ -188,8 +188,8 @@ a {
 .start span {
   margin-bottom: 5%;
   padding: 20px;
-  position: relative;
-  bottom: 5%;
+  position: fixed;
+  bottom: 1.1%;
   color: whitesmoke;
   font-family: "Poppins", sans-serif;
 }
